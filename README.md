@@ -1,6 +1,6 @@
 # Operations-and-Metrics-Analytics
 This project focuses on analyzing operational metrics to optimize performance, identify inefficiencies, and improve decision-making. It provides actionable insights for streamlining processes and enhancing productivity.
-
+(Data Cleaning, KPI Analysis, trend Analysis, Visualization, Optimization Insights).
 Project Description :
 
 This project involved using SQL to analyze operational data and investigate metric spikes. The goal was to generate insights and answer complex questions related to the organization's operations. I used a range of SQL techniques to answer complex questions, such as subqueries, joins, and aggregations. For example, I used subqueries to compare the performance of different teams or regions, and joins to combine data from multiple sources. I also calculated metrics such as rolling averages and percentiles to gain a deeper understanding of the data.
